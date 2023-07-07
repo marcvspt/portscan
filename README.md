@@ -5,7 +5,7 @@ Port scanner for TCP IPv4 and IPv6 programming in golang.
 Build from source code, the golang script name **portscan.go**.
 
 ```bash
-git clone https://github.com/atriox2510/portscan
+git clone https://github.com/marcvspt/portscan
 cd portscan
 go build -ldflags "-s -w" -o portscan portscan.go
 ```
@@ -32,4 +32,4 @@ upx brute portscan
 
 
 ## Download the binary
-You can download the compiled binary in the [releases](https://github.com/atriox2510/portscan/releases/tag/v1.0) page.
+You can download the compiled binary in the [releases](https://github.com/marcvspt/portscan/releases/tag/v1.0) page.
